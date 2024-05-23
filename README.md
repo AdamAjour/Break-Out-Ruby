@@ -34,7 +34,7 @@ To get started with Break-Out-Ruby, you'll need to install SDL2, the Ruby2D gem,
     cd Break-Out-Ruby
     ```
 
-##Movement
+## Movement
 Use 'a' and 'd' to move left and right respectively
 
 ## Usage
