@@ -34,8 +34,10 @@ To get started with Break-Out-Ruby, you'll need to install SDL2, the Ruby2D gem,
     cd Break-Out-Ruby
     ```
 
-## Usage
+##Movement
+Use 'a' and 'd' to move left and right respectively
 
+## Usage
 Once you have all dependencies installed and the project cloned, you can run the game with the following command:
 
 ```sh
